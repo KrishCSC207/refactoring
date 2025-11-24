@@ -1,2 +1,4 @@
+daf042c Completed Step 5 Task 2.1
+b3f51a0 Completed Task 1.2
 cdf4ce1 Completed Task 1.1
 b3f16b6 Initial commit
